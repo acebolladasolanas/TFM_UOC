@@ -1,0 +1,16 @@
+Country,Response_measure,date_start,date_end
+Italy,MajorInterventionJunio,2020-06-11,2020-10-15
+Italy,ClosSec, 2020-07-05,2020-09-14
+Italy,StayHomeOrderPartial, 2020-11-05,NA
+Italy,ChristmasTime,2020-12-21,2021-01-10
+Italy,ClosPubAnyAndOther,2020-12-24,2021-01-06
+Italy,ClosPubAnyPartial,2021-01-07,2021-04-06
+Italy,RegionalStayHomeOrder,2021-01-16,2021-01-31
+Italy,RegionalStayHomeOrder,2021-02-08,2021-02-21
+Italy,RegionalStayHomeOrder,2021-03-08,NA
+Italy,EasterTime,2021-03-26,2021-04-11
+Italia,GymsSportsCentresPartial,2021-05-15 ,2021-05-29
+Italia,ClosPubAnyAndOther,2021-08-06 ,NA
+Italia,ClosPubAnyPartial,2021-08-06 ,NA
+Italy,ClosSec,2021-09-10 ,NA
+
