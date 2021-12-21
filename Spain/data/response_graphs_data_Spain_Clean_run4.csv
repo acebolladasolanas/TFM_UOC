@@ -1,0 +1,9 @@
+Country,Response_measure,date_start,date_end
+Spain,CloseSecPrimHighDayCare,2020-03-12,2020-08-27
+Spain,MajorInterventionMarch, 2020-03-14,2020-09-30
+Spain,EntertainmentVenues, 2020-08-14,NA
+Spain,MajorInterventionOctober,2020-10-01,2020-10-24
+Spain, Christmas Time, 2020-12-10,2021-01-10
+Spain,EasterTime,2021-03-26,2021-04-11
+Spain,ClosurePub,2021-06-02,NA
+Spain2,UseMask,2021-06-26,NA
